@@ -39,27 +39,30 @@ We'll set up our own Virtual Private Network (VPN)
 - Set `Image` to **Windows 10 Pro, version 22H2**
 - Set everything else to your liking.
 
+![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/5b3a2e50-afb3-40a6-ab25-5f172483fbcf)
 
 - Log into your Virtual Machine
 - Go to [www.whatismyipaddress.com]](https://whatismyipaddress.com/) on your Virtual Machine
 - Observe and Take note of your New IP Address/ Region/ City
 
-
+![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/d783648c-115b-4841-b4c3-ab9a8c46e3d6)
   
 - Return to your PC
 - Sign up for the Free Version of ProtonVPN
-- Download the ProtonVPN Client
-
-
 - Return to the Virtual Machine
 - Log into your ProtonVPN Account using (https://account.protonvpn.com/login)
+- Download the Client onto the Virtual Machine
+- Complete the Installation
 - Select a ProtonVPN Server located in Japan
+- Let the Virtual Machine Restart
+
+![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/d119b5a5-556d-4b01-b061-e922b87241f4)
 
 
-
-- Go to [www.whatismyipaddress.com]](https://whatismyipaddress.com/) on your Virtual Machine, with VPN Activated
+- Go to [www.whatismyipaddress.com](https://whatismyipaddress.com/) on your Virtual Machine, with VPN Activated
 - Observe and Take note of your New IP Address/ Region/ City
 
+![image](https://github.com/CarlosAlvarado0718/VPN-NETWORK/assets/140138198/a20b0e94-1cd7-47e5-a7d2-81b4106a0378)
 
 
 ---
